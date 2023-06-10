@@ -13,7 +13,7 @@
 <!-- Sub Title -->
 <!-- <h2 align="center">Software Development Engineer</h2> -->
 
-<h1></h1>
+<h1><img src="https://komarev.com/ghpvc/?username=pranab-dey&label=Profile%20views&color=0e75b6&style=flat" alt="pranab-dey" /></h1>
 <img align="right" alt="Coder GIF" height=260 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /><br/>
 
 
@@ -102,6 +102,19 @@
   
  </table>
 
+
+
+
+
+
+
+<div>
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=pranab-dey&theme=tokyonight" alt="pranab-dey" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranab-dey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pranab-dey" />
+
+
+</div>
 
 
  
