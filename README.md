@@ -13,6 +13,7 @@
 <!-- Sub Title -->
 <!-- <h2 align="center">Software Development Engineer</h2> -->
 
+<img src="./assets/line.gif" align="center">
 <h1><img src="https://komarev.com/ghpvc/?username=pranab-dey&label=Profile%20views&color=0e75b6&style=flat" alt="pranab-dey" /></h1>
 <img align="right" alt="Coder GIF" height=260 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /><br/>
 
@@ -97,9 +98,7 @@
             <a href="https://firebase.com/" target="_blank"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" /> </a><a href="" target="_blank"> <img src="https://img.shields.io/badge/aws%20dynamodb-%2338B2AC.svg?style=for-the-badge&logo=amazondynamodb&logoColor=red&color=black" alt="dynamodb" /> </a><a href="https://firebase.com/" target="_blank"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> </a><a href="https://firebase.com/" target="_blank"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Vercel" /> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
         </p>
     </td>
- </tr>
- 
-  
+ </tr> 
  </table>
 
 
@@ -107,97 +106,8 @@
 
 
 
+ ## <img src="./assets/chart.gif" width="40"> Github Stats </img>
+<img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pranab-dey&theme=tokyonight" alt="pranab-dey" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranab-dey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pranab-dey" />
 
-<div>
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=pranab-dey&theme=tokyonight" alt="pranab-dey" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranab-dey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pranab-dey" />
-
-
-</div>
-
-
- 
-<!-- ## <img src="./assets/chart.gif" width="45"> Gaus Al Munir Tushar's Github Stats 
-<p align="center">
-<a href="https://github.com/GausAlMunirTushar/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaus Al Munir Tushar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GausAlMunirTushar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
-
-</p>
-
-| [![Gaus Al Munir Tushar's Github stats](https://github-readme-stats.vercel.app/api?username=GausAlMunirTushar&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GausAlMunirTushar&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<br/>
-<b>📓 Notes:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
-<br/>
-<br> -->
-
-<!-- [![Gaus Al Munir Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=GausAlMunirTushar&theme=react-dark&hide_border=true)](https://github.com/GausAlMunirTushar/github-readme-activity-graph) -->
-
-<!-- ## <img alt="Awards Gif" src="./assets/awards.gif" width="30"/> Honors & Awards :
-- Top Learner - LEDP, ICT Division -->
-
-<!-- ##  <img alt="Project Gif" src="./assets/rocket.gif" width="35"/>  Projects:
-
-<table>
-   <tr>
-      <th>Projects</th>
-      <th>Live Demo Links</th>
-      <th>Description</th>
-      <th>Technology Used</th>
-   </tr>
-   <tr>
-   <td><a href="https://github.com/GausAlMunirTushar/InvenTrack">InvenTrack</a></td>
-   <td align="center"> <a href="https://inventrack.gausalmunirtushar.me">Live Demo</a> </td>
-   <td> InvenTrack is a powerful inventory management system that can help businesses take control of their inventory, minimize stockouts and overstocking, and improve their operational efficiency and customer satisfaction. </td>
-   <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
-   </tr>
-   <tr>
-   <td><a href="https://github.com/GausAlMunirTushar/TaskMasterX">TaskMasterX</a></td>
-   <td align="center"><a href="https://taskmasterx.gausalmunirtushar.me/">Live Demo</a> </td>
-   <td> TaskMasterX is a powerful and intuitive task management system designed to help individual efficiently organize, track, and complete tasks. TaskMasterX is the perfect solution for anyone looking to streamline their workflow and stay on top of their tasks. </td>
-   <td>Reactjs, Redux, JavaScript, Nodejs, Expressjs, MongoDB</td>
-   </tr>
-   <tr>
-   <td><a href="https://github.com/GausAlMunirTushar/ExpensifyPro">ExpensifyPro</a></td>
-   <td align="center"> <a href="https://expensifypro.gausalmunirtushar.me/">Live Demo</a> </td>
-   <td> ExpensifyPro is a comprehensive expense management system designed to streamline the process of tracking, managing, and reporting expenses for businesses and individuals. The system offers features such as automated expense tracking, receipt scanning, real-time expense reports, and expense policy enforcement to help users manage their finances more. </td>
-   <td>Reactjs, JavaScript, Nodejs, Expressjs, MongoDB</td>
-   </tr>
-</table> -->
-
-<!-- ## Hobby Projects
-| Projects      | Description | Responses |
-| -----------   | :-------------------: |-----------|
-| <a href="https://marketplace.visualstudio.com/items?itemName=GausAlMunirTushar.famous-dev-theme">Famous Dev Theme</a>| Visual Studio Code Editor Theme| 100+ Installs |
-
-
-<a href="#"> <img src="https://img.shields.io/badge/More Project Links-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a> -->
-
-<!-- 
-## <img src="./assets/edu-icon.gif" width="30">Education
-- Diploma in Computer Science and Technology
-   Rangpur Polytechnic Institute  
-   Rangpur, Bangladesh.
-- SSC in Computer Technology
-   Jatir Pita Bangabandhu Govt. High School
-   Gazipur, Bangladesh. -->
-   
-
-<!-- ### <img alt="Fire Gif" src="./assets/fire.gif" width="25"/> Recent Followers
-
-|          [@IbrahimAliHamim](https://github.com/IbrahimAliHamim)           |              [@JibonRay](https://github.com/JibonRay)              |           [@MahfouzHossain](https://github.com/MahfouzHossain)           |         [@ShobujKumarAditto](https://github.com/Shobujkumaraditto)          |
-| :-----------------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| ![@IbrahimAliHamim](https://avatars.githubusercontent.com/u/87495140?v=4) | ![@JibonRay](https://avatars.githubusercontent.com/u/87613070?v=4) | ![@MahfouzHossain](https://avatars.githubusercontent.com/u/87492349?v=4) | ![@ShobujKumarAditto](https://avatars.githubusercontent.com/u/87502706?v=4) |
-|                             Ibrahim Ali Hamim                             |                             Jibon Ray                              |                             Mahafouz Hossain                             |                             Shobuj Kumar Addito                             |
-|                                                                           |                                                                    |                                                                          |                                                                             | -->
-
- <!-- <br>
-
-[![Website Badge](https://img.shields.io/badge/Personal%20Blog-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://blog.gausalmunirtushar.me/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13123317/gaus-al-munir-tushar)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@GausAlMunirTushar) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/GausAlMunirTushar) [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://gausalmunirtushar.hashnode.dev/) [![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/GausAlMunirTushar) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gausalmunirtushar) -->
-
-<!-- <img src="./assets/line.gif">
-<p align="center">Thanks for going through My Portfolio. All rights reserved by Gaus Al Munir Tushar @2023</p>
-<img src="./assets/line.gif"> -->
+<img src="./assets/line.gif" align="center">
