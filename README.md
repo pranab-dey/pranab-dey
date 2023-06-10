@@ -68,9 +68,10 @@
       <td>
           <p align="center"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express" />
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/AWS%20S3-%2338B2AC.svg?style=for-the-badge&logo=amazons3&logoColor=red&color=white" alt="s3" /> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/AWS%20EventBridge-%2338B2AC.svg?style=for-the-badge&logo=amazonsqs&logoColor=red&color=%2361DAFB" alt="eventBridge" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/serverless-%2338B2AC.svg?style=for-the-badge&logo=serverless&logoColor=red&color=black" alt="serverless" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/AWS%20SQS-%2338B2AC.svg?style=for-the-badge&logo=amazonsqs&logoColor=red&color=%2361DAFB" alt="sqs" /> </a>
-<a href="" target="_blank"> <img src="https://img.shields.io/badge/AWS%20SQS-%2338B2AC.svg?style=for-the-badge&logo=amazonsqs&logoColor=red&color=%2361DAFB" alt="sqs" /> </a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/AWS%20SNS-%2338B2AC.svg?style=for-the-badge&logo=amazonsqs&logoColor=red&color=%2361DAFB" alt="sns" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/AWS%20Apigateway-%2338B2AC.svg?style=for-the-badge&logo=amazonapigateway&logoColor=red&color=white" alt="apigateway" /> </a>
 <a href="" target="_blank"> <img src="https://img.shields.io/badge/AWS%20Lambda-%2338B2AC.svg?style=for-the-badge&logo=awslambda&logoColor=red&color=black" alt="lambda" /> </a>
 
