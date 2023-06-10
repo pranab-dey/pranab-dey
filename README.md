@@ -1,5 +1,11 @@
-<h1> Hi<img alt="Hi, I am Pranab Dey" src="./assets/hi.gif" width="40">, I'm <a href="https://gausalmunirtushar.me">Pranab Dey</a> </h1>
-<!-- <img src="./assets/cover-photo.png" width="500" height="300" title="Gaus Al Munir Tushar" alt="Gaus Al Munir Tushar" align="right"> -->
+<!-- Header -->
+<p align="center">
+   <img alt="Coder GIF"  width=650 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+</p>
+
+
+<h1> Hi<img alt="Hi, I am Pranab Dey" src="./assets/hi.gif" width="40" />, I'm <a href="https://gausalmunirtushar.me">Pranab Dey</a> </h1>
+
 <h2>Software Development Engineer</h2>
 
 -   🔭 I’m currently working @ Craftsmen Ltd.
