@@ -1,29 +1,32 @@
+
+
 <!-- Header -->
 <p align="center">
-   <img alt="Coder GIF"  width=650 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+   <img alt="Coder GIF"  width=650 src="./assets/ezgif.com-add-text.gif" />
 </p>
+<!-- Title -->
+<h1 align="center"> Hi <img alt="Hi, I am Pranab Dey" src="./assets/hi.gif" width="30" />, I'm <a href="https://gausalmunirtushar.me">Pranab Dey</a> </h1>
+<caption>Software Development Engineer</caption>
+<!-- Sub Title -->
+<!-- <h2 align="center">Software Development Engineer</h2> -->
 
 
-<h1> Hi<img alt="Hi, I am Pranab Dey" src="./assets/hi.gif" width="40" />, I'm <a href="https://gausalmunirtushar.me">Pranab Dey</a> </h1>
+<img align="right" alt="Coder GIF" height=260 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /><br/>
 
-<h2>Software Development Engineer</h2>
-
--   🔭 I’m currently working @ Craftsmen Ltd.
--   🌱 I’m currently exploring TypeScript
 
 -   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Web Development
 -   ❤️ I am passionate about Computer Science & I enjoy learning new things
 -   💻 I enjoy programming & sharing knowledge
-- ⚡ Fun fact: My Typing speed 80++ WPM
-##  <img alt="Project Gif" src="./assets/loadig.gif" width="20"/>   Connect with me! <br>
+-   ⚡ 4+ years of experience
 
-[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://gausalmunirtushar.me/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gausalmunirtushar)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GausAlMunirTushar)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/GausAlMunirTusharPro)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GausAlMunirTushar)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/GausAlMunirTushar)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gausalmunirtushar@gmail.com)
+
+##  <img alt="Project Gif" src="./assets/loadig.gif" width="18"/>   Connect with me!
+
+[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://pranab-dey.github.io/portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranab-dey)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranab.strings07@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pranab.dey.77)
+
 
 
 
