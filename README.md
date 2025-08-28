@@ -108,7 +108,10 @@
 
 
  ## <img src="./assets/chart.gif" width="40"> Github Stats </img>
-<img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pranab-dey&theme=tokyonight" alt="pranab-dey" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranab-dey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pranab-dey" />
+
+
+
+<img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pranab-dey&theme=tokyonight" alt="" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranab-dey&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="" /> 
 
 <img src="./assets/line.gif" align="center">
