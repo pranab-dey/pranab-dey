@@ -22,7 +22,7 @@
 -   ❤️ I am passionate about Computer Science & I enjoy learning new things
 -   💻 I enjoy programming & sharing knowledge
 -   🌱 I’m currently exploring GoLang
--   ⚡ **6+** years of experience
+-   ⚡ **8+** years of experience
 
 
 ##  <img alt="Project Gif" src="./assets/loadig.gif" width="18"/>   Connect with me!
